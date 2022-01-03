@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naijide and I am a beginner programmer
 - 👀 I’m interested in Blockchain, App dev, and Data Science.
-- 🌱 I’m currently learning Java and Python.
+- 🌱 I’m currently coding in Java and Python. Looking to get into solidity later ;)
 - 💞️ I’m looking to collaborate on interesting, creative, small projects
 
 
