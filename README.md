@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Naijide
-- 👀 I’m interested in Blockchain, App dev, and Data Science.
-- 💞️ I’m looking to collaborate on interesting, creative, small projects
+Hey I'm Naj! I'm not the most technical person, but I really enjoy building things :)
+Check out the things I've been experimenting here.
 
 
 <!---
